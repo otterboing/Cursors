@@ -8,3 +8,5 @@ The cursors were made in [PaintDotNet](https://www.getpaint.net/) and the animat
  The `wait` and `progress` images are APNGs
 
 The `.mdp` files are opened in [FireAlpaca](https://firealpaca.com/)
+
+I used [FSresizer](https://www.faststone.org/FSResizerDownload.htm) to resize the smaller versions.

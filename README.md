@@ -11,4 +11,6 @@ The `.mdp` files are opened in [FireAlpaca](https://firealpaca.com/)
 
 I used [FSresizer](https://www.faststone.org/FSResizerDownload.htm) to resize the smaller versions.
 
+---
+
 All Files are under the [MIT Licence](https://github.com/otterboing/Cursors/blob/main/LICENSE). Basically do whatever you want!
